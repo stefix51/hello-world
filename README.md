@@ -1,2 +1,3 @@
 # hello-world
-Test the west
+Test the east.
+Jak se vede?
